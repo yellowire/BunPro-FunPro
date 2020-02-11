@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BunPro FunPro</string>
+    <string name="welcome">Welcome to FunPro!</string>
+    <string name="need_key">Please enter your API key to connect to BunPro.</string>
+    <string name="key_save_fail">Unable to save API Key in app preferences.</string>
+    <string name="key_invalid">BunPro didn\'t recognize that key. Please try again.</string>
+    <string name="poop">Something just went horribly wrong.</string>
+    <string name="noty_title">New BunPro reviews</string>
+    <string name="noty_text1">"You have "</string>
+    <string name="noty_text2">" new reviews available"</string>
+    <string name="noty_text3">1 new review available</string>
+    <string name="channel_name">Review Notifications</string>
+    <string name="channel_description">When BunFun finds new reviews available, it will alert you with a notification.</string>
+
+</resources>
